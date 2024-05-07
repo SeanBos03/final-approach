@@ -1,0 +1,54 @@
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 5\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\week 6\Code Samples Wk5\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment\final assiignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assiignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\final assignment\final assignment\the final assignment - Copy\final assignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.exe
+C:\Users\seanb\Documents\CMGT GXP\GXP Projects\Physics Programming\Prep - Copy - Copy\final assignment\final assignment\final assignment\bin\Debug\GXPEngine.pdb
